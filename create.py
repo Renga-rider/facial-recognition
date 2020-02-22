@@ -1,3 +1,11 @@
+'''
+This code is developed from https://github.com/ageitgey/face_recognition 
+so have a look on his page 
+consider subcribing to my youtube channel
+https://www.youtube.com/channel/UCFhPVAGq5K12pgHnKZj-EQA
+''''
+
+
 import cv2
 import numpy as np
 import os
