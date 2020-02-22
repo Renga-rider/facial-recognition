@@ -61,6 +61,9 @@ run the "recognize.py"
 
 The code is tested for 750+ students we got perfect result
 
+consider subscribing to my youtube channel
+https://www.youtube.com/channel/UCFhPVAGq5K12pgHnKZj-EQA
+
 
 
 
