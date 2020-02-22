@@ -4,8 +4,8 @@ import numpy as np
 from numpy import savetxt
 from numpy import loadtxt
 
-# This is a demo of running face recognition on live video from your webcam. It's a little more complicated than the
-# other example, but it includes some basic performance tweaks to make things run a lot faster:
+# This is a demo of running face recognition on live video from your webcam.
+# it includes some basic performance tweaks to make things run a lot faster:
 #   1. Process each video frame at 1/4 resolution (though still display it at full resolution)
 #   2. Only detect faces in every other frame of video.
 
