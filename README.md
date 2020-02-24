@@ -19,7 +19,7 @@ installing library
 
 3)type "pip install opencv-python" press enter
 
-4)type "pip install xldr"press enter
+4)type "pip install xlrd"press enter
 
 5)type "pip install face_recognition" press enter
 
